@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Showing Transactions</string>
+    <string name="title_activity_details_transaction">DetailsTransactionActivity</string>
+</resources>
