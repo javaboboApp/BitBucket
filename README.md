@@ -1,4 +1,4 @@
-# Clean architecture
+
 
    # Requirements for the app:
 1) (Ticket : TICKET-1) When the app is launched it should fetch all the transactions from:
