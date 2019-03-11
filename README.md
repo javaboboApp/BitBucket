@@ -29,3 +29,5 @@ I have used the next tecnologies to resolve the problem:
  + Rxjava
  + Mokito
  + Expresso
+ + MVP
+ + Clean architecture
