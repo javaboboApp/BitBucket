@@ -5,7 +5,7 @@ In the next image we can see how clean architecture is divided in differents abs
 
 
 <p align="center">
-  <img width="500" height="500" src="https://raw.githubusercontent.com/ImangazalievM/CleanArchitectureManifest/master/images/CleanArchitectureManifest.png">
+  <img  src="https://raw.githubusercontent.com/ImangazalievM/CleanArchitectureManifest/master/images/CleanArchitectureManifest.png">
 </p>
 
 
